@@ -1,3 +1,6 @@
+# I want github to ignore these repositories
+do-not-track/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
